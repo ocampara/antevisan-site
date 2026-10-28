@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/apresentacao-comercial", "destination": "https://apresentacao-antevisan-lemon.vercel.app/" },
+    { "source": "/apresentacao-comercial/", "destination": "https://apresentacao-antevisan-lemon.vercel.app/" }
+  ]
+}
