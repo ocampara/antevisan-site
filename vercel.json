@@ -1,6 +1,8 @@
 {
   "rewrites": [
     { "source": "/apresentacao-comercial", "destination": "https://apresentacao-antevisan-lemon.vercel.app/" },
-    { "source": "/apresentacao-comercial/", "destination": "https://apresentacao-antevisan-lemon.vercel.app/" }
+    { "source": "/apresentacao-comercial/", "destination": "https://apresentacao-antevisan-lemon.vercel.app/" },
+    { "source": "/apresentacao-comercial-sp26", "destination": "https://apresentacao-antevisan-sem-preco.vercel.app/" },
+    { "source": "/apresentacao-comercial-sp26/", "destination": "https://apresentacao-antevisan-sem-preco.vercel.app/" }
   ]
 }
